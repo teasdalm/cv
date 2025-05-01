@@ -11,6 +11,7 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 * [ORCiD](https://orcid.org/0000-0002-7376-9975)
 
 ### 2025
+* Lévêque É, **Teasdale MD**, Fiddyment S, Bro-Jørgensen MH, Spindler L, Macleod R, Bougard F, Tange Olsen M, Collins M. _Hiding in plain sight: the biomolecular identification of pinniped use in medieval manuscripts._ [Royal Society Open Science](https://doi.org/10.1098/rsos.241090). 
 * Daly KG, Mullin VE, Hare AJ, Halpin Á, Mattiangeli V, **Teasdale MD**, Rossi C, Geiger S, Krebs S, Medugorac I, Sandoval-Castellanos E, Özbasaran M, Duru G, Gülcür S, Pöllath N, Collins M, Frantz L, Vila E, Zidarov P, Stoddart S, Boldgiv B, Orlando L, Pearson MP, Mullville J, Askeyev IV, Askeyev AO, Askeyev OV, Shaymuratova DN, Van den Hurk Y, Zeeb-Lanz A, Arbogast RM, Hemmer H, Davoudi H, Amiri S, Doost SB, Decruyenaere D, Fathi H, Khazaeli R, Hassanzadeh Y, Sardari A, Lhuillier J, Abdolahi M, Summers GD, Marro C, Bahshaliyev V, Berthon R, Çakirlar C, Benecke N, Scheu A, Burger J, Sauer E, Horwitz LK, Arbuckle B, Buitenhuis H, Gourichon L, Bulatović J, O’Connor T, Orton D, Jalabadze M, Rhodes S, Chazan M, Özkaya V, Zeder M, Atıcı L, Mashkour M, Peters J, Bradley DG. _Ancient genomics and the origin, dispersal, and development of domestic sheep_. [Science](https://doi.org/10.1126/science.adn2094). 
 
 
