@@ -78,12 +78,13 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 ## Book Chapters
 
-* Fiddyment S, **Teasdale MD**. _Hidden in the Archives: How Biocodicology Can Reveal Biological Histories of Animals_ [in](https://www.liverpooluniversitypress.co.uk/doi/10.3828/9781836240273) Animalia: Animal and Human Interaction in the Early Medieval English World Eds. Clegg Hyer M Owen-Crocker GR. 2025
-* **Teasdale MD**, Bradley DG. _The Origins of Cattle_ [in](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118301739#page=11) Bovine Genomics Eds. Womack JE. 2012
+* Fiddyment S, **Teasdale MD**. _Hidden in the Archives: How Biocodicology Can Reveal Biological Histories of Animals._ [in](https://www.liverpooluniversitypress.co.uk/doi/10.3828/9781836240273) Animalia: Animal and Human Interaction in the Early Medieval English World. _Eds._ Clegg Hyer M Owen-Crocker GR. 2025.
+
+* **Teasdale MD**, Bradley DG. _The Origins of Cattle_ [in](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118301739#page=11). Bovine Genomics. _Eds._ Womack JE. 2012.
 
 ## Book Reviews
 
-* Teasdale MD. _Anna Källén . 2025. The trouble with ancient DNA: telling stories of the past with genomic science. Chicago (IL): University of Chicago Press; 978-0-226-83557-0 paperback $20_ Antiquity. 2025 
+* Teasdale MD. _Anna Källén . 2025. The trouble with ancient DNA: telling stories of the past with genomic science. Chicago (IL): University of Chicago Press; 978-0-226-83557-0 paperback $20_ Antiquity. 2025.
  
 
  
