@@ -75,3 +75,17 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 ### 2014
 * Gamba C, Jones ER, **Teasdale MD**, McLaughlin RL, Gonzalez-Fortes G, Mattiangeli V, Domboróczki L, Kővári I, Pap I, Anders A, Whittle A, Dani J, Raczky P, Higham TFG, Hofreiter M, Bradley DG, Pinhasi R. _Genome flux and stasis in a five millennium transect of European prehistory_. [Nat Commun](https://doi.org/10.1038/ncomms6257).
+
+## Book Chapters
+
+* Fiddyment S, **Teasdale MD**. _Hidden in the Archives: How Biocodicology Can Reveal Biological Histories of Animals_ in Animalia: Animal and Human Interaction in the Early Medieval English World Eds. Clegg Hyer M Owen-Crocker GR. 2025
+* **Teasdale MD**, Bradley DG. _The Origins of Cattle_ in Bovine Genomics Eds. Womack JE. 2012
+
+## Book Reviews
+
+Teasdale MD. _Anna Källén . 2025. The trouble with ancient DNA: telling stories of the past with genomic science. Chicago (IL): University of Chicago Press; 978-0-226-83557-0 paperback $20_ Antiquity. 2025 
+ 
+
+ 
+
+
