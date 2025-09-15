@@ -78,9 +78,9 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 ## Book Chapters
 
-* Fiddyment S, **Teasdale MD**. _Hidden in the Archives: How Biocodicology Can Reveal Biological Histories of Animals._ [in](https://www.liverpooluniversitypress.co.uk/doi/10.3828/9781836240273) Animalia: Animal and Human Interaction in the Early Medieval English World. _Liverpool University Press_. Eds. Clegg Hyer M, Owen-Crocker GR. 2025.
+* Fiddyment S, **Teasdale MD**. _Hidden in the Archives: How Biocodicology Can Reveal Biological Histories of Animals_ [in](https://www.liverpooluniversitypress.co.uk/doi/10.3828/9781836240273) Animalia: Animal and Human Interaction in the Early Medieval English World. _Liverpool University Press_. Eds. Clegg Hyer M, Owen-Crocker GR. 2025.
 
-* **Teasdale MD**, Bradley DG. _The Origins of Cattle_. [in](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118301739#page=11) Bovine Genomics. _John Wiley & Sons_. Eds. Womack JE. 2012.
+* **Teasdale MD**, Bradley DG. _The Origins of Cattle_ [in](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118301739#page=11) Bovine Genomics. _John Wiley & Sons_. Eds. Womack JE. 2012.
 
 ## Book Reviews
 
