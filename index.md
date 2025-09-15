@@ -84,7 +84,7 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 
 ## Book Reviews
 
-* Teasdale MD. _Anna Källén . 2025. The trouble with ancient DNA: telling stories of the past with genomic science. Chicago (IL): University of Chicago Press; 978-0-226-83557-0 paperback $20_. Antiquity. 2025.
+* **Teasdale MD**. _Anna Källén . 2025. The trouble with ancient DNA: telling stories of the past with genomic science. Chicago (IL): University of Chicago Press; 978-0-226-83557-0 paperback $20_. [Antiquity](https://doi.org/10.15184/aqy.2025.10166). 2025.
  
 
  
