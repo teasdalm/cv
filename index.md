@@ -11,7 +11,7 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 * [ORCiD](https://orcid.org/0000-0002-7376-9975)
 
 ### 2025
-* Shaikh N, **Teasdale M**, Walker LJ, Wilson L, Howarth R, Saleem S, Hepburn AC, Nelson R, Elizondo AC, Hussain R, Coxhead J, Gaughan L, Scott E, Robson C, Simons B, Hayward SW, Strand DW, Heer R, Buskin A. _Xeno-free human iPSC-derived prostate organoid platform for multilineage differentiation and genetic manipulation_. Preprint:[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.21.683654v1)
+* Shaikh N, **Teasdale M**, Walker LJ, Wilson L, Howarth R, Saleem S, Hepburn AC, Nelson R, Elizondo AC, Hussain R, Coxhead J, Gaughan L, Scott E, Robson C, Simons B, Hayward SW, Strand DW, Heer R, Buskin A. _Xeno-free human iPSC-derived prostate organoid platform for multilineage differentiation and genetic manipulation_. Preprint:[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.21.683654v1).
 
 
 * Jandu D, Latar N, Bajrami A, Queen R, Hasoon M, **Teasdale M**, Hussain R, Coxhead J, Aspinall S, Meeson A. _Single Cell RNA Sequencing of Papillary Cancer Mesenchymal Stem/Stromal Cells Reveals a Transcriptional Profile That Supports a Role for These Cells in Cancer Progression_. [International Journal of Molecular Sciences](https://doi.org/10.3390/ijms26104957).
