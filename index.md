@@ -11,7 +11,7 @@ Matthew graduated with a BSc in Human Genetics (2007) and an MRes in Bioinformat
 * [ORCiD](https://orcid.org/0000-0002-7376-9975)
 
 ### 2026
-LHote L, Sacristan L, Ferguson R, Siekmann A, Rogers L, Richter B, Weissenbock H, Lorke J, Artemis L, LEveque E, Hark R, Engel P, Webber MTJ, Bennett M, Rose-Beers K, Nichols E, Alegre MM, Ramsoe M, Fiddyment S, Vinas-Caron LC, Papin DV, Light-Maka IC, Key FM, Albarnaz J, Downing T, Pekar J, Lemey P, Bradley D, Vnoucek J, Makarewicz CA, Story J, Collins M, **Teasdale MD**, Binois-Roman A, Calvignac-Spencer S, Daly KG. 3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes. Preprint:[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.23.707469v2).
+LHote L, Sacristan L, Ferguson R, Siekmann A, Rogers L, Richter B, Weissenbock H, Lorke J, Artemis L, LEveque E, Hark R, Engel P, Webber MTJ, Bennett M, Rose-Beers K, Nichols E, Alegre MM, Ramsoe M, Fiddyment S, Vinas-Caron LC, Papin DV, Light-Maka IC, Key FM, Albarnaz J, Downing T, Pekar J, Lemey P, Bradley D, Vnoucek J, Makarewicz CA, Story J, Collins M, **Teasdale MD**, Binois-Roman A, Calvignac-Spencer S, Daly KG. 3,500 years of sheeppox virus evolution inferred from archaeological and codicological genomes. Preprint:[bioRxiv](https://doi.org/10.64898/2026.02.23.707469).
 
 
 ### 2025
